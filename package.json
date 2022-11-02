@@ -1,0 +1,13 @@
+{
+  "name": "typescript-starter",
+  "version": "1.0.0",
+  "description": "nitric typescript starter template",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.201.0",
+    "@nitric/sdk": "latest",
+    "aws-sdk": "^2.1245.0",
+    "uuidv4": "^6.2.13"
+  }
+}
